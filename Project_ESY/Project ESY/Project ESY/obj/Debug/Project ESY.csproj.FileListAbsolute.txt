@@ -1,0 +1,10 @@
+E:\C++ project\C# Project\Project ESY\Project ESY\bin\Debug\Project ESY.exe.config
+E:\C++ project\C# Project\Project ESY\Project ESY\bin\Debug\Project ESY.exe
+E:\C++ project\C# Project\Project ESY\Project ESY\bin\Debug\Project ESY.pdb
+E:\C++ project\C# Project\Project ESY\Project ESY\obj\Debug\Project ESY.csproj.AssemblyReference.cache
+E:\C++ project\C# Project\Project ESY\Project ESY\obj\Debug\Project_ESY.Form1.resources
+E:\C++ project\C# Project\Project ESY\Project ESY\obj\Debug\Project_ESY.Properties.Resources.resources
+E:\C++ project\C# Project\Project ESY\Project ESY\obj\Debug\Project ESY.csproj.GenerateResource.cache
+E:\C++ project\C# Project\Project ESY\Project ESY\obj\Debug\Project ESY.csproj.CoreCompileInputs.cache
+E:\C++ project\C# Project\Project ESY\Project ESY\obj\Debug\Project ESY.exe
+E:\C++ project\C# Project\Project ESY\Project ESY\obj\Debug\Project ESY.pdb
