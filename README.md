@@ -1,10 +1,10 @@
 # Bộ Sưu Tập Dự Án **Arduino & IoT**
 
-> Kho lưu trữ này tập hợp những dự án, ví dụ và bài thử nghiệm cá nhân của mình với Arduino, ESP32 cùng các cảm biến & module IoT. Hy vọng chia sẻ được kinh nghiệm, ý tưởng và nguồn cảm hứng cho cộng đồng Maker.
-
 <p align="center">
-  <img src="docs/banner.svg" alt="Arduino & IoT Projects" width="75%">
+  <img src="https://c1.wallpaperflare.com/preview/398/896/843/arduino-electronics-integrated-circuit-ic.jpg" alt="Arduino & IoT Projects" width="75%">
 </p>
+
+> Kho lưu trữ này tập hợp những dự án, ví dụ và bài thử nghiệm cá nhân của mình với Arduino, ESP32 cùng các cảm biến & module IoT. Hy vọng chia sẻ được kinh nghiệm, ý tưởng và nguồn cảm hứng cho cộng đồng Maker.
 
 ---
 
@@ -21,17 +21,9 @@
 
 ---
 
-Phát hành theo **MIT License**. ❤️ 2025
-
----
-
 # **Arduino & IoT** Project Collection  *(English)*
 
 > This repository gathers my personal projects, examples and experiments with Arduino, ESP32 and various IoT sensors & modules. The aim is to share experience, ideas and inspiration with the Maker community.
-
-<p align="center">
-  <img src="docs/banner.svg" alt="Arduino & IoT Projects" width="75%">
-</p>
 
 ---
 
@@ -46,7 +38,6 @@ Phát hành theo **MIT License**. ❤️ 2025
 - **Fork** → edit → **Pull Request** to contribute new features or improve the docs.
 - Have questions, ideas or issues? Please open an **Issue**.
 
----
 
-Released under the **MIT License**. ❤️ 2025
+
 
