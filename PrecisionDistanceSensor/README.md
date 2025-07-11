@@ -1,8 +1,10 @@
 # Máy đo khoảng cách siêu âm HC‑SR04 + LCD I²C
 
-![Ảnh mặt trên](images/top_view.jpg)
-![Ảnh mặt trước](images/front_view.jpg)
-![Sơ đồ kết nối](images/wiring_diagram.png)
+<p align="center">
+  <img src="images/top_view.jpg"  width="220"/>
+  <img src="images/front_view.jpg" width="320"/>
+  <img src="images/wiring_diagram.png" width="480"/>
+</p>
 
 ## Giới thiệu
 Thư mục này chứa mã nguồn Arduino đo khoảng cách bằng cảm biến **HC‑SR04** và hiển thị kết quả trên màn hình **LCD 1602 I²C**. Chương trình lấy **5 mẫu**, lọc **median** để loại nhiễu, kiểm tra ngưỡng tin cậy (2 – 400 cm) rồi hiển thị & gửi về **Serial**.
@@ -88,5 +90,5 @@ $ cd ultrasonic‑lcd
 ---
 
 ## License
-MIT © 2025 Your Name
+HUST © 2025 Vũ Đức Thuận
 
