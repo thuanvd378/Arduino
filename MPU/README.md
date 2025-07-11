@@ -95,5 +95,5 @@ PR và issue luôn được hoan nghênh! Vui lòng fork repo, tạo nhánh m�
 
 ---
 
-© 2025 Tên tác giả. Điều chỉnh theo nhu cầu dự án của bạn.
+© 2023 Vũ Đức Thuận
 
